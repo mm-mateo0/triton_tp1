@@ -2,7 +2,7 @@
 # Proyecto Tritón
 ## TP-1: Sistema de Telemetría Multicloud y Observabilidad Asíncrona
 
-**Integrante:** Mateo [completar apellido]  
+**Integrante:** Mateo Liendro  
 **Institución:** UPATECO  
 **Proyecto:** Tritón
 
