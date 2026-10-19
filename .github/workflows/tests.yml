@@ -24,4 +24,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Ejecutar pruebas
-        run: pytest -v
+        run: PYTHONPATH=src pytest -v
