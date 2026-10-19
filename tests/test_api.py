@@ -1,7 +1,7 @@
 
 from fastapi.testclient import TestClient
 
-from src.triton_monitor.api import app
+from triton_monitor.api import app
 
 client = TestClient(app)
 
